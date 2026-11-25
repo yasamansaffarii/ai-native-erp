@@ -241,13 +241,6 @@ Potential extensions include:
 - Hyndman, R. J., & Athanasopoulos, G. *Forecasting: Principles and Practice.*
 - Yao, S. et al. (2023). *ReAct: Synergizing Reasoning and Acting in Language Models.*
 - [Northwind SQLite3 Dataset](https://github.com/jpwhite3/northwind-SQLite3)
-
----
-
-## License
-
-The Northwind dataset repository is distributed under the MIT License. Add an appropriate license file to this project before distributing the project's own source code.
-
 ---
 
 **Project Status:** Prototype / Research & Development
